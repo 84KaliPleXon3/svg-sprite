@@ -64,7 +64,7 @@
     "less": "^3.10.3",
     "mocha": "^7.0.0",
     "mocha-lcov-reporter": "*",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "pn": "^1.1.0",
     "rimraf": "",
     "should": "^13.2.3",
